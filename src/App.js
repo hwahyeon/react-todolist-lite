@@ -3,9 +3,9 @@ import Todo from "./components/Todo";
 
 function App() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Routes>
-                <Route path={`${process.env.PUBLIC_URL}/`} element={<Todo />} />
+                <Route path="/" element={<Todo />} />
             </Routes>
         </Router>
     );
