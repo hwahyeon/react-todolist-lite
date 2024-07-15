@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-beginner-todo",
+  "name": "react-todolist-lite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://hwahyeon.github.io/reactjs-beginner-todo"
+  "homepage": "https://hwahyeon.github.io/react-todolist-lite"
 }
