@@ -1,6 +1,6 @@
 # My To Dos
 
-**[Start](https://hwahyeon.github.io/reactjs-beginner-todo/)**
+**[Start](https://hwahyeon.github.io/react-todolist-lite/)**
 
 ## Overview
 This application offers a simple, intuitive interface where users can easily add, view, and manage their to-do items.
